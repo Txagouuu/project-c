@@ -25,7 +25,7 @@ Durante o desenvolvimento deste código, apliquei os seguintes fundamentos da li
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Txagouuu/project-c.git](https://github.com/Txagouuu/project-c.git)
+    git clone https://github.com/Txagouuu/project-c.git
     ```
 2.  **Compile o código** (necessário ter o GCC instalado):
     ```bash
